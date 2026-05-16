@@ -31,3 +31,9 @@ Uma breve descrição sobre coisas além da área profissional.
 ### Prêmios e certificações
 
 Conquistas que eu alcancei ao longo da minha vida. É atualizada conforme a necessidade.
+
+## Pastas
+
+### Assets
+
+Todos os assets utilizados, como documentos e imagens. Mais podem ser adicionados no futuro.
